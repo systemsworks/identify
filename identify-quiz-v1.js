@@ -1,3 +1,4 @@
+<script>
 var displayname;
 
 
@@ -659,4 +660,5 @@ $('[bloc=prev-section]').on('click',function() {
 
       }});
 
+</script>
 
